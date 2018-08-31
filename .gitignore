@@ -2,8 +2,8 @@
 logs
 *.log
 
-#deleted folder
-deleted
+# deleted files
+css/*
 
 
 # Runtime data
