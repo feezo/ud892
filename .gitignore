@@ -2,6 +2,10 @@
 logs
 *.log
 
+#deleted folder
+css/main.css
+
+
 # Runtime data
 pids
 *.pid
