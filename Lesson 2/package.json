@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feezo/My_gulp_project.git"
+    "url": "git+https://github.com/feezo/ud892.git"
   },
   "author": "hafis jimoh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/feezo/My_gulp_project/issues"
+    "url": "https://github.com/feezo/ud892/issues"
   },
-  "homepage": "https://github.com/feezo/My_gulp_project#readme",
+  "homepage": "https://github.com/feezo/ud892#readme",
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
